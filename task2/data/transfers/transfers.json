@@ -1,0 +1,6 @@
+{"transaction_id": "GFDFG53443", "user_id": 1, "amount": 12312.1, "currency": "PLN", "ts": "2023-01-31 22:00:00", "IBAN": "PL78101010230000261395200000"}
+{"transaction_id": "GFDFG53444", "user_id": 2, "amount": 34, "currency": "PLN", "ts": "2023-01-31 22:01:23", "IBAN": "PL78101010230000261395200000"}
+{"transaction_id": "GFDFG53445", "user_id": 3, "amount": 654, "currency": "PLN", "ts": "2023-01-31 22:05:00", "IBAN": "PL78101010230000261395200000"}
+{"transaction_id": "GFDFG53446", "user_id": 4, "amount": 12312.1, "currency": "PLN", "ts": "2023-01-31 22:07:12", "IBAN": "PL78101010230000261395200000"}
+{"transaction_id": "GFDFG53447", "user_id": 5, "amount": 2342.12, "currency": "PLN", "ts": "2023-01-31 22:10:00", "IBAN": "PL78101010230000261395200000"}
+{"transaction_id": "GFDFG53448", "user_id": 1, "amount": 999.99, "currency": "PLN", "ts": "2023-01-31 22:12:00", "IBAN": "PL78101010230000261395200000"}
