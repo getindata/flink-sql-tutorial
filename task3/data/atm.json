@@ -1,7 +1,7 @@
-{"user_id": 1, "amount": 50, "atm_id": "ZS5435", "ts": "2023-01-31 22:00:00"}
-{"user_id": 1, "amount": 100, "atm_id": "ZS5435", "ts": "2023-01-31 22:01:00"}
-{"user_id": 1, "amount": 50, "atm_id": "ZS5435", "ts": "2023-01-31 22:05:00"}
-{"user_id": 2, "amount": 100, "atm_id": "ZS5435", "ts": "2023-01-31 23:00:00"}
-{"user_id": 2, "amount": 100, "atm_id": "ZS5435", "ts": "2023-01-31 23:05:00"}
-{"user_id": 2, "amount": 100, "atm_id": "ZS5435", "ts": "2023-01-31 23:11:00"}
-{"user_id": 3, "amount": 50, "atm_id": "ZS5435", "ts": "2023-01-31 23:30:00"}
+{"user_id": 101000, "amount": 50, "atm_id": "unsuspicious52594", "ts": "2024-01-01 00:00:00"}
+{"user_id": 101000, "amount": 100, "atm_id": "unsuspicious82726", "ts": "2024-01-01 00:03:12"}
+{"user_id": 101000, "amount": 50, "atm_id": "suspicious05521", "ts": "2024-01-01 00:05:50"}
+{"user_id": 101001, "amount": 100, "atm_id": "unsuspicious05390", "ts": "2024-01-01 00:10:00"}
+{"user_id": 101001, "amount": 800, "atm_id": "unsuspicious80227", "ts": "2024-01-01 00:11:06"}
+{"user_id": 101002, "amount": 50, "atm_id": "unsuspicious21066", "ts": "2024-01-01 00:20:00"}
+{"user_id": 101002, "amount": 50, "atm_id": "unsuspicious65276", "ts": "2024-01-01 00:24:11"}
